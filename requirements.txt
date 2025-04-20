@@ -1,0 +1,5 @@
+langchain>=0.1.0
+openai>=1.0.0
+faiss-cpu>=1.7.4
+tqdm>=4.64.0
+pandas>=2.0.0
